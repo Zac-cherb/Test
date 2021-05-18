@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import ttk
 from ttkthemes import ThemedStyle
 from tkinter.filedialog import *
-from Test.model import *
+from model import *
 import os
 from tkinter import messagebox
 
